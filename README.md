@@ -1,4 +1,4 @@
-# 684_Final
+# 684 Final
 Document Classification: Author identification
 
 The report fulfilling the requirements of `final.pdf` can be found in `report.pdf`.
